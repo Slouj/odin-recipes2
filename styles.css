@@ -1,0 +1,15 @@
+#page-wrap {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+.h1 {
+  text-align: center;
+}
+
+.button {
+  background-color: rgba(122, 69, 192, 0.651);
+  color: antiquewhite;
+  text-align: center; 
+  align-items: baseline;
+}
