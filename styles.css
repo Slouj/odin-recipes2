@@ -5,11 +5,17 @@
 
 .h1 {
   text-align: center;
+  background-color: bisque;
+  color: rgb(24, 138, 132);
 }
 
 .button {
-  background-color: rgba(122, 69, 192, 0.651);
+  background-color: rgb(152, 112, 190);
   color: antiquewhite;
-  text-align: center; 
-  align-items: baseline;
+  display: inline-block;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-style: normal;
+  align-items: center;
+  border-radius: 6px;
 }
