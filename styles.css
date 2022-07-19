@@ -9,8 +9,9 @@
   color: rgb(24, 138, 132);
 }
 
-.button {
+.b1 {
   background-color: rgb(152, 112, 190);
+  width: 500px;
   color: antiquewhite;
   display: inline-block;
   font-family: 'Courier New', Courier, monospace;
@@ -18,4 +19,31 @@
   font-style: normal;
   align-items: center;
   border-radius: 6px;
+  position: relative;
+}
+
+.b2 {
+  background-color: rgb(152, 112, 190);
+  width: 500px;
+  color: antiquewhite;
+  display: inline-block;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-style: normal;
+  align-items: center;
+  border-radius: 6px;
+  position: relative;
+}
+
+.b3 {
+  background-color: rgb(152, 112, 190);
+  width: 500px;
+  color: antiquewhite;
+  display: inline-block;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-style: normal;
+  align-items: center;
+  border-radius: 6px;
+  position: relative;
 }
