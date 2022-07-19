@@ -3,20 +3,12 @@
     margin: 0 auto;
   }
 
-.border {
-  border-style: solid;
-  border-color: black;
-  border-width: 10px;
-
-}
-
-.image {
-  width: 800px;
-  
-}
-
 .h1 {
+  border: 10px;
+  border-radius: 10px;
+  border-color: black;
   text-align: center;
+  font-size: 50px;
   background-color: bisque;
   color: rgb(24, 138, 132);
 }
@@ -45,6 +37,7 @@
   align-items: center;
   border-radius: 6px;
   position: relative;
+  display: inline;
 }
 
 .b3 {
@@ -58,4 +51,21 @@
   align-items: center;
   border-radius: 6px;
   position: relative;
-}
+} 
+
+.container {
+
+  background-size: 700px;
+  
+  background-image : url(images/board.jpg);
+
+  background-repeat: no-repeat;
+
+  border: 10px;
+  
+  border-color: rgb(12, 49, 54);
+
+  border-style: solid;
+  
+
+}  
